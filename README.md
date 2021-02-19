@@ -3,19 +3,12 @@ IT에 관심있는 사람이라면 누구나 사용할 수 있는 IT분야 스�
 
 개발환경 
 
-·JAVA  
-
+·JAVA 
 ·HTML
-
 ·CSS
-
 ·JavaScript
-
 ·BOOTSTRAP
-
 ·Oracle
-
 ·MyBatis
-
 ·Spring MVC
 
